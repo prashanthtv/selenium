@@ -1,0 +1,4 @@
+ChromeDriver=C:\\selenium-java-3.14.0\\chromedriver.exe
+FirefoxDriver=C:\\selenium-java-3.14.0\\geckodriver.exe
+URL=http://learn-automation.com/
+Excepath=
