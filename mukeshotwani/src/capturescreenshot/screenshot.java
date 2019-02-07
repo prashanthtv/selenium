@@ -1,5 +1,5 @@
 package capturescreenshot;
-
+//capture screenshot in selenium
 import java.io.File;
 import java.io.IOException;
 import java.util.List;
