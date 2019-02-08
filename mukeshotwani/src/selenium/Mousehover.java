@@ -25,7 +25,7 @@ public class Mousehover {
 		
 		driver.findElement(By.xpath("//div[@class='dropdown-content']//a[contains(text(),'Selenium')]")).click();
 		driver.switchTo().defaultContent();
-		
+		driver.quit();
 		
 	}
 }

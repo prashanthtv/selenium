@@ -1,4 +1,4 @@
-package practice;
+package prashanth;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
@@ -7,8 +7,8 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.Test;
 
-public class Scrolltest {
-
+public class scroll {
+	
 	
 	@Test
 	public void scrolldemo()
@@ -33,3 +33,6 @@ public class Scrolltest {
 		
 	}
 }
+
+
+
